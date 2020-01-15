@@ -6,7 +6,8 @@ def base_hash
 	  monopoly = {
 	    :one => {
 	      
-	    },
+	    }
+	   monopoly
 	  }
 	}
 end
