@@ -7,7 +7,6 @@ def base_hash
 	    
 	  }
 	 }
-	puts monopoly
 	
 	}
 end
