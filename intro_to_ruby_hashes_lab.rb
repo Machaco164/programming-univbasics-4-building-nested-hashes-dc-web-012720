@@ -4,7 +4,7 @@ def base_hash
 	{
 	  
 	  monopoly = {
-	    one: {
+	    :one => {
 	      
 	    }
 	  }
