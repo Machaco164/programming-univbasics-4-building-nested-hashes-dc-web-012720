@@ -4,6 +4,7 @@ def base_hash
 	{
 	 monopoly = {
 	  :base_hash => "abc"
+	 }
 	}
 end
 
