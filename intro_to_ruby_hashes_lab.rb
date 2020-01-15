@@ -3,7 +3,11 @@ def base_hash
   # keyword "return." Nice and neat.
 	{
 	  
-	  
+	  monopoly = {
+	    one: {
+	      :key => "value"
+	    }
+	  }
 	}
 end
 
