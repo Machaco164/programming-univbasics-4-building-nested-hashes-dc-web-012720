@@ -7,8 +7,8 @@ def base_hash
   :railroads=>{
     
       }
+    monopoly
     }
-  monopoly
 	}
 end
 
